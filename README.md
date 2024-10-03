@@ -1,9 +1,9 @@
 # Programming Porfolio
 
-## CHANGE THIS HEADING TO YOUR NAME
+## John Smith
 
-### CHANGE THIS HEADING TO YOUR GROUP (e.g. CS4A, FS4D)
-### CHANGE THIS HEADING TO YOUR TUTOR'S FULL NAME
+### CS4B
+### Tony Jenkins
 
 By submitting this work you are confirming that the work in this repo is your own. You are confirming that you agree to the statement in the ``README.md`` file in the ``assessment`` folder. 
 
