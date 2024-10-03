@@ -1,4 +1,4 @@
-# Programming Porfolio
+# Programming Portfolio
 
 ## John Smith
 
